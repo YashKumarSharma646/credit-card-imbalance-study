@@ -140,7 +140,7 @@ These tables contain complete performance comparisons across all sampling-model 
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone <[repository-link](https://github.com/YashKumarSharma646/credit-card-imbalance-study)>
 cd credit-card-imbalance-study
 ```
 
